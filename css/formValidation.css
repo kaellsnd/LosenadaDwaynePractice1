@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+}
+.formV {
+    background-color: white;
+    border: 2px;
+    border-style: solid;
+    padding: 10px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    margin-top: -15px;
+    margin-left: -265px;
+}
